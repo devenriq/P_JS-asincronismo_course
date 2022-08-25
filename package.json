@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "16.js-asincronismo",
   "version": "1.0.0",
   "description": "",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/octenrique/Platzi_JS-asincronismo_course#readme",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
 }
